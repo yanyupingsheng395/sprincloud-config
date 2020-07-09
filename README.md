@@ -1,0 +1,2 @@
+# sprincloud-config
+这个目录是springcloud2020版中练习SpringCloud config分布式配置中心 需要从github上下载的一个自建项目
